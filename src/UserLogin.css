@@ -1,0 +1,23 @@
+#login-form {
+  height: 200px;
+  width: 250px;
+  position: absolute;
+  top:25%;
+  left: 20%;
+  text-align: center;
+}
+
+#soobmit {
+  top: 60%;
+  left: -10%;
+  width: 300px;
+  height: 40px;
+}
+
+#login-field1 {
+  border-color: white;
+}
+
+#login-field2 {
+  border-color: white;
+}

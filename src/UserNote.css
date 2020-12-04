@@ -1,0 +1,33 @@
+#col-itme {
+  height: 40px;
+}
+
+#note-card-title {
+  font-weight: bolder;
+}
+
+.collection-item {
+  cursor: pointer;
+}
+
+#baba {
+  background-color: rgb(240, 237, 240);
+  color: black;
+  border-bottom: solid rgb(61, 61, 61);
+  border-bottom-width: 0.1px;
+}
+
+#gaga {
+  background-color: rgb(23, 22, 23);
+  color: white;
+  border-bottom: solid rgb(61, 61, 61);
+  border-bottom-width: 0.1px;
+}
+
+#selected-note-icon {
+  background-color: rgb(23, 22, 23);
+}
+
+#note-icon {
+  background-color: rgb(201, 144, 240);
+}

@@ -1,0 +1,14 @@
+#notes-container {
+  position: absolute;
+  left: 0%;
+  top: 10%;
+  height: 800px;
+  width: 250px;
+  background-color: rgb(201, 144, 240);
+  border-radius: 0.5%;
+  overflow: scroll;
+}
+
+#note-collection {
+  border-width: 0px;
+}
